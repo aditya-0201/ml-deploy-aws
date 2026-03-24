@@ -1,0 +1,44 @@
+{
+  "input_data": {
+    "columns": [
+      "date",
+      "bedrooms",
+      "bathrooms",
+      "sqft_living",
+      "sqft_lot",
+      "floors",
+      "waterfront",
+      "view",
+      "condition",
+      "sqft_above",
+      "sqft_basement",
+      "yr_built",
+      "yr_renovated",
+      "street",
+      "city",
+      "statezip",
+      "country"
+    ],
+    "data": [
+      [
+        "2014-05-02 00:00:00",
+        3,
+        2,
+        1340,
+        7912,
+        1,
+        0,
+        0,
+        3,
+        1340,
+        0,
+        1955,
+        0,
+        "18810 Densmore Ave N",
+        "Shoreline",
+        "WA 98133",
+        "USA"
+      ]
+    ]
+  }
+}
