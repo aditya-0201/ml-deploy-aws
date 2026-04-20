@@ -32,7 +32,7 @@ security
 
 //// 3000 + source(anywhere ipv4)
 
-save rules
+//// save rules
 
 the connect
 click connect
