@@ -76,3 +76,29 @@ npm install
 sudo node server.js
 
 http://ip_address:80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "features": [6,148,72,35,0,33.6,0.627,50]
+}
