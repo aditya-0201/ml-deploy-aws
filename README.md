@@ -19,18 +19,18 @@ key value pair
 
 create
 
-add custom port
+//// add custom port
 security
 
-security group
+//// security group
 
-edit
+//// edit
 
-inbound rules
+//// inbound rules
 
-add rules
+//// add rules
 
-3000 + source(anywhere ipv4)
+//// 3000 + source(anywhere ipv4)
 
 save rules
 
