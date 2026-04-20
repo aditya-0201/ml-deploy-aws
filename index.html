@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Static Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Navbar */
+    nav {
+      background: #333;
+      color: white;
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    /* Hero */
+    .hero {
+      background: lightblue;
+      height: 200px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 30px;
+    }
+
+    /* Sections */
+    section {
+      padding: 20px;
+    }
+
+    .services {
+      display: flex;
+      gap: 20px;
+    }
+
+    .card {
+      border: 1px solid #ccc;
+      padding: 15px;
+      flex: 1;
+      text-align: center;
+    }
+
+    /* Footer */
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav>
+    <div>MySite</div>
+    <div>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Contact</a>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <div class="hero">
+    Welcome to My Website
+  </div>
+
+  <!-- About -->
+  <section>
+    <h2>About Us</h2>
+    <p>This is a simple static website built using HTML and CSS.</p>
+  </section>
+
+  <!-- Services -->
+  <section>
+    <h2>Services</h2>
+    <div class="services">
+      <div class="card">Web Design</div>
+      <div class="card">Development</div>
+      <div class="card">SEO</div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    © 2026 MySite | All Rights Reserved
+  </footer>
+
+</body>
+</html>
