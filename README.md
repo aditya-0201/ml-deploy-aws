@@ -73,6 +73,6 @@ ls
 
 npm install
 
-node server.js
+sudo node server.js
 
-http://ip_address:3000
+http://ip_address:80
